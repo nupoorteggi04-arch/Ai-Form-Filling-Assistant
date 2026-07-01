@@ -1,0 +1,37 @@
+{
+  "entity_extraction": {
+    "operation": "Entity Extraction",
+    "iterations": 30,
+    "average_time_ms": 0.5345333331812677,
+    "median_time_ms": 0.12255000001459848,
+    "min_time_ms": 0.08900000102585182,
+    "max_time_ms": 9.108000000196625,
+    "std_dev_ms": 1.7043969323532207,
+    "total_time_ms": 16.035999995438033,
+    "throughput_per_sec": 1870.7907214102324,
+    "extraction_rate": 64.44444444444444
+  },
+  "form_mapping": {
+    "operation": "Form Mapping",
+    "iterations": 120,
+    "average_time_ms": 0.024686666711204452,
+    "median_time_ms": 0.01990000055229757,
+    "min_time_ms": 0.018200000340584666,
+    "max_time_ms": 0.0455999997939216,
+    "std_dev_ms": 0.007534580637406133,
+    "total_time_ms": 2.9624000053445343,
+    "throughput_per_sec": 40507.69638924697,
+    "average_completion_rate": 55.082499999999996
+  },
+  "end_to_end": {
+    "operation": "End-to-End Processing",
+    "iterations": 60,
+    "average_time_ms": 0.2003000001119896,
+    "median_time_ms": 0.18649999947228935,
+    "min_time_ms": 0.08600000001024455,
+    "max_time_ms": 0.79600000026403,
+    "std_dev_ms": 0.11004030698695445,
+    "total_time_ms": 12.018000006719376,
+    "throughput_per_sec": 4992.511230358915
+  }
+}
